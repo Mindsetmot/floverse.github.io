@@ -34,4 +34,4 @@ Subtitle Studio Pro adalah web-based SRT editor yang dirancang khusus untuk peng
 
 ---
 ## 🌐 Preview
-👉 [Subtitle Studio Pro](https://mindsetmot.github.io/sub/)
+👉 [Subtitle Studio Pro](https://mindsetmot.github.io/subtitle-editor-web/)
